@@ -11,5 +11,19 @@ class Waziri{
         // This is pre-increasing avariable before accessing it
         System.out.println(++aridhi); 
         System.out.println(usalama);
+
+        System.out.println(--aridhi);
+        System.out.println(usalama);
+
+        aridhi = aridhi + 5;
+        aridhi += 5;
+        System.out.println(aridhi);
+
+        aridhi -= 5;
+        System.out.println(aridhi);
+
+        aridhi *= 5;
+        System.out.println(aridhi);
+
     }
 }
