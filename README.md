@@ -12,3 +12,9 @@ It's the work of the compiler take the file and change it into what the computer
 
     - ```java salamu```
         This is the command to run the java program
+
+
+### TL;DR
+
+Public meeans a method or class is public
+Void means the method will run but not return anything
