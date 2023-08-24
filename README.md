@@ -21,3 +21,6 @@ Void means the method will run but not return anything
 
 Arguements are any information the program needs to run
 
+Void means a method returns nothing
+String etc means a method returns a string
+printf is a common print function in C but also used in Java
