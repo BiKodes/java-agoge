@@ -1,5 +1,5 @@
 public class tuna {
-    public void simpleMessage(){
-        System.out.println("This is another class");
+    public void messageRahisi(String name){
+        System.out.println("Jambo " + name);
     }
 }

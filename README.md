@@ -18,3 +18,6 @@ It's the work of the compiler take the file and change it into what the computer
 
 Public meeans a method or class is public
 Void means the method will run but not return anything
+
+Arguements are any information the program needs to run
+
